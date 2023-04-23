@@ -48,7 +48,7 @@ namespace dotnet_rpg.Controllers
             if(response.Data is null)
                 return NotFound(response);
             
-            return Ok();
+            return Ok(response);
         }
 
         [HttpDelete("{id}")]
@@ -59,7 +59,7 @@ namespace dotnet_rpg.Controllers
             if(response.Data is null)
                 return NotFound(response);
             
-            return Ok();
+            return Ok(response);
         }
     }
 }
