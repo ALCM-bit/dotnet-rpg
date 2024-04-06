@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WqnP0sjg0Mv0S2bAzfoQBHePpWHkBbpOrxj7jFAHa9KMsJHjbDTCAS1z2lnf1ubw1phMkUscoXT9krg2jE2kGw==",
+  "dgSpecHash": "fd7Iq7if3Ut9hll9ER+QtgSSm3N1vDcarCxai7mZM8JGPQSoAzMI0wsbR7xEzJJc6QjmzgTYcN3lhdujw/8gLA==",
   "success": true,
-  "projectFilePath": "C:\\ws-Csharp\\dotnet-rpg\\dotnet-rpg.csproj",
+  "projectFilePath": "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",

@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ws-Csharp\\dotnet-rpg\\dotnet-rpg.csproj": {}
+    "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj": {}
   },
   "projects": {
-    "C:\\ws-Csharp\\dotnet-rpg\\dotnet-rpg.csproj": {
+    "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ws-Csharp\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectUniqueName": "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj",
         "projectName": "dotnet-rpg",
-        "projectPath": "C:\\ws-Csharp\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectPath": "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\ws-Csharp\\dotnet-rpg\\obj\\",
+        "outputPath": "E:\\Projetos\\dotnet-rpg\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
