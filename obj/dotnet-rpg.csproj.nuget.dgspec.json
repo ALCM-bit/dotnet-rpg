@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj": {}
+    "E:\\ws-workspaces\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj": {
+    "E:\\ws-workspaces\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectUniqueName": "E:\\ws-workspaces\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj",
         "projectName": "dotnet-rpg",
-        "projectPath": "E:\\Projetos\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectPath": "E:\\ws-workspaces\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\dotnet-rpg\\obj\\",
+        "outputPath": "E:\\ws-workspaces\\dotnet-rpg\\dotnet-rpg\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,6 +58,20 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -82,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
